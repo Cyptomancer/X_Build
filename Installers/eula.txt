@@ -1,0 +1,333 @@
+END USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT NOTICE TO USER: PLEASE READ THIS AGREEMENT CAREFULLY AND IN ITS ENTIRETY BEFORE INSTALLING, COPYING, ACCESSING, EXECUTING, OR OTHERWISE USING THIS SOFTWARE. THIS DOCUMENT CONTAINS LEGALLY BINDING TERMS AND CONDITIONS THAT GOVERN YOUR RIGHTS, OBLIGATIONS, AND RESPONSIBILITIES WITH RESPECT TO THE SOFTWARE. BY PROCEEDING WITH INSTALLATION, EXECUTION, OR USE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO BE BOUND BY ALL TERMS SET FORTH HEREIN.
+
+THIS END USER LICENSE AGREEMENT ("EULA" OR "AGREEMENT") IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL PERSON OR A SINGLE LEGAL ENTITY), HEREINAFTER REFERRED TO AS "YOU," "THE USER," OR "LICENSEE," AND THE AUTHOR, CREATOR, DEVELOPER, MAINTAINER, PUBLISHER, OR DISTRIBUTOR OF THIS SOFTWARE (COLLECTIVELY REFERRED TO AS "THE AUTHOR," "LICENSOR," OR "PROVIDER").
+
+IF YOU DO NOT AGREE TO ALL TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST NOT INSTALL, COPY, ACCESS, EXECUTE, DISTRIBUTE, OR OTHERWISE USE THE SOFTWARE.
+
+FOR THE PURPOSES OF THIS AGREEMENT, "THE SOFTWARE" SHALL MEAN THE PROGRAM, ALL ASSOCIATED FILES, BINARIES, LIBRARIES, DRIVERS, COMPONENTS, MODULES, SCRIPTS, CONFIGURATIONS, DOCUMENTATION, UPDATES, MODIFICATIONS, PATCHES, AND ANY DERIVATIVE OR SUPPLEMENTARY MATERIALS PROVIDED BY THE AUTHOR.
+
+--------------------------------------------------------------------
+
+1. DEFINITIONS AND INTERPRETATION OF TERMS
+
+For purposes of clarity, legal certainty, and avoidance of ambiguity, the following capitalized terms shall have the meanings set forth below. These definitions shall apply equally to singular and plural forms and shall be interpreted broadly.
+
+"Agreement" means this End User License Agreement, including all amendments, appendices, supplements, and referenced documents.
+
+"Software" means the executable program, source code (if provided), compiled binaries, libraries, modules, drivers, scripts, documentation, configuration files, updates, upgrades, patches, and any derivative materials provided by the Author.
+
+"Author" means the individual, group, organization, or legal entity responsible for the creation, publication, distribution, or maintenance of the Software, including successors, affiliates, contractors, and assigns.
+
+"User," "You," or "Licensee" means the individual or legal entity installing, accessing, executing, or otherwise using the Software.
+
+"System" means any computer, workstation, mobile device, server, virtual machine, embedded system, or network environment upon which the Software is installed, executed, or interacts.
+
+"Use" or "Usage" includes installing, copying, executing, loading, accessing, testing, modifying, integrating, or otherwise interacting with the Software in any manner.
+
+"Modification" means any alteration, enhancement, reverse engineering, decompilation, disassembly, patching, translation, or derivative creation involving the Software.
+
+"Distribution" means transferring, sharing, publishing, hosting, transmitting, or otherwise making the Software available to any third party by any means.
+
+"Third Party" means any individual or entity other than the Author and the User.
+
+"Data" means any information processed, generated, transmitted, stored, cached, or otherwise handled by the Software.
+
+These definitions are intended to ensure comprehensive applicability of this Agreement across technical and legal contexts.
+
+--------------------------------------------------------------------
+
+2. GRANT OF LICENSE
+
+The Author hereby grants You a limited, revocable, non-exclusive, non-transferable, non-assignable, and non-sublicensable license to install and use the Software solely for its intended purpose and strictly in accordance with the terms of this Agreement.
+
+This license does not constitute a sale. No ownership rights, title, or intellectual property interests in the Software are transferred to You. All rights not expressly granted are reserved by the Author.
+
+--------------------------------------------------------------------
+
+3. SYSTEM MODIFICATIONS AND PERMISSIONS
+
+By installing, executing, or otherwise using the Software, You expressly acknowledge and consent that the Software may perform system-level and user-level operations, including but not limited to:
+
+- Writing, modifying, or deleting registry keys or configuration entries;
+- Installing services, drivers, hooks, background components, or scheduled tasks;
+- Establishing outbound or inbound network connections;
+- Creating, modifying, encrypting, decrypting, relocating, or deleting files;
+- Adjusting system or user-level permissions and privileges;
+- Interacting with operating system APIs and security mechanisms.
+
+You acknowledge that such actions may be persistent and may affect system behavior, performance, or configuration.
+
+--------------------------------------------------------------------
+
+4. INTENT AND NO GUARANTEES
+
+The Software is developed with the intention of being useful and functional. HOWEVER, THE SOFTWARE IS PROVIDED STRICTLY "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND.
+
+THE AUTHOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY,
+- FITNESS FOR A PARTICULAR PURPOSE,
+- NON-INFRINGEMENT,
+- ACCURACY,
+- RELIABILITY,
+- PERFORMANCE,
+- SECURITY.
+
+--------------------------------------------------------------------
+
+5. ACCEPTANCE OF RISK
+
+YOU ACKNOWLEDGE AND AGREE THAT USE OF THE SOFTWARE IS ENTIRELY AT YOUR OWN RISK. YOU ASSUME FULL RESPONSIBILITY FOR ANY CONSEQUENCES RESULTING FROM INSTALLATION, CONFIGURATION, EXECUTION, OR USE.
+
+--------------------------------------------------------------------
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER, INCLUDING:
+
+- LOSS OF DATA,
+- LOSS OF PROFITS,
+- BUSINESS INTERRUPTION,
+- SYSTEM FAILURE,
+- HARDWARE DAMAGE,
+- SECURITY INCIDENTS,
+- PERSONAL INJURY,
+- PROPERTY DAMAGE.
+
+THIS APPLIES REGARDLESS OF LEGAL THEORY, INCLUDING CONTRACT, TORT, NEGLIGENCE, OR STRICT LIABILITY.
+
+--------------------------------------------------------------------
+
+7. USER INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless the Author from and against any claims, damages, losses, liabilities, and expenses arising from:
+
+- Your use or misuse of the Software;
+- Your violation of this Agreement;
+- Your violation of any applicable laws or third-party rights.
+
+--------------------------------------------------------------------
+
+8. DISTRIBUTION RIGHTS
+
+You may distribute the Software only under the following strict conditions:
+
+- It must remain complete and unmodified;
+- This EULA must accompany all copies;
+- No fees, donations, or commercial benefit may be derived;
+- It may not be bundled, licensed, rented, leased, or sold.
+
+--------------------------------------------------------------------
+
+9. AUTOMATIC UPDATES AND TELEMETRY CONSENT
+
+The Software may automatically check for updates, download patches, and
+transmit operational or diagnostic information. By using the Software, 
+You consent to such activity.
+
+--------------------------------------------------------------------
+
+10. THIRD-PARTY COMPONENTS
+
+The Software may include third-party libraries or components. 
+Such components may be governed by separate licenses. You agree 
+to comply with any applicable third-party licensing terms.
+
+--------------------------------------------------------------------
+
+11. EXPORT COMPLIANCE AND SANCTIONS
+
+You agree to comply with all applicable export control laws and sanctions. 
+You shall not export or transfer the Software to restricted
+jurisdictions, individuals, or entities.
+
+--------------------------------------------------------------------
+
+12. LIMITATION OF USE
+
+You agree to use the Software only for lawful purposes and in 
+compliance with all applicable laws and regulations.
+
+--------------------------------------------------------------------
+
+13. AUDIT RIGHTS
+
+Where permitted by law, the Author reserves the right to verify 
+compliance with this Agreement through reasonable means.
+
+--------------------------------------------------------------------
+
+14. TERMINATION
+
+This License is effective until terminated. It will terminate 
+automatically if You fail to comply with any provision. Upon termination,
+You must cease all use and destroy all copies.
+
+--------------------------------------------------------------------
+
+15. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by the laws of the jurisdiction in 
+which the Author resides, without regard to conflict-of-law principles. 
+You consent to exclusive jurisdiction of the courts therein.
+
+--------------------------------------------------------------------
+
+16. FORCE MAJEURE
+
+The Author shall not be liable for failure to perform due to events 
+beyond reasonable control, including natural disasters, war,
+infrastructure failures, or governmental actions.
+
+--------------------------------------------------------------------
+
+17. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties
+and supersedes all prior understandings, whether written or oral.
+
+--------------------------------------------------------------------
+
+18. SEVERABILITY
+
+If any provision is found invalid or unenforceable, the remaining 
+provisions shall remain in full force and effect.
+
+--------------------------------------------------------------------
+
+19. NON-ASSIGNABILITY
+
+You may not assign, transfer, or delegate this Agreement or any 
+rights granted herein without prior written consent from the Author.
+
+--------------------------------------------------------------------
+
+20. RESERVATION OF RIGHTS
+
+All rights not expressly granted in this Agreement are reserved by 
+the Author.
+
+--------------------------------------------------------------------
+
+21. SURVIVAL
+
+All provisions relating to liability limitations, indemnification, 
+definitions, and governing law shall survive termination.
+
+--------------------------------------------------------------------
+
+22. NO WAIVER
+
+Failure by the Author to enforce any provision shall not constitute 
+a waiver of that provision or any other provision.
+
+--------------------------------------------------------------------
+
+23. INTERPRETATION
+
+Section headings are provided for convenience only and shall not affect
+interpretation. This Agreement shall be interpreted in favor of 
+enforceability to the maximum extent permitted by law.
+
+
+--------------------------------------------------------------------
+
+24. EXPRESS WAIVER OF RIGHTS AND INFORMED CONSENT
+
+BY INSTALLING, EXECUTING, ACCESSING, OR OTHERWISE USING THE SOFTWARE,
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT YOU VOLUNTARILY WAIVE, 
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL CLAIMS, 
+RIGHTS, OR REMEDIES THAT MAY OTHERWISE ARISE FROM YOUR USE OF THE SOFTWARE,
+INCLUDING BUT NOT LIMITED TO CLAIMS RELATED TO SYSTEM MODIFICATIONS, DATA LOSS,
+PERFORMANCE IMPACT, OR UNINTENDED BEHAVIOR.
+
+YOU FURTHER ACKNOWLEDGE THAT YOU ARE PROVIDING INFORMED AND EXPLICIT CONSENT 
+FOR THE SOFTWARE TO PERFORM ALL OPERATIONS REASONABLY NECESSARY FOR ITS FUNCTIONALITY, 
+INCLUDING SYSTEM-LEVEL INTERACTIONS, CONFIGURATION CHANGES, AND NETWORK ACTIVITY.
+
+SUCH CONSENT IS PROVIDED FREELY, KNOWINGLY, AND WITHOUT DURESS, AND SHALL REMAIN 
+IN EFFECT FOR THE ENTIRE DURATION OF USE OF THE SOFTWARE.
+
+--------------------------------------------------------------------
+
+25. RESTRICTIONS ON REVERSE ENGINEERING AND ANALYSIS
+
+EXCEPT WHERE EXPRESSLY PERMITTED BY APPLICABLE LAW OR WITH PRIOR WRITTEN AUTHORIZATION
+FROM THE AUTHOR, YOU SHALL NOT, AND SHALL NOT PERMIT ANY THIRD PARTY TO:
+
+- REVERSE ENGINEER,
+- DECOMPILE,
+- DISASSEMBLE,
+- ANALYZE,
+- TRACE,
+- MODIFY,
+- RECONSTRUCT,
+- OR OTHERWISE ATTEMPT TO DERIVE THE SOURCE CODE, INTERNAL STRUCTURE, LOGIC, 
+  OR DESIGN OF THE SOFTWARE.
+
+ANY ATTEMPT TO CIRCUMVENT TECHNICAL PROTECTIONS, OBFUSCATION MECHANISMS, 
+OR SECURITY CONTROLS IMPLEMENTED WITHIN THE SOFTWARE SHALL CONSTITUTE A MATERIAL 
+BREACH OF THIS AGREEMENT AND SHALL RESULT IN IMMEDIATE TERMINATION OF ALL LICENSE RIGHTS.
+
+WRITTEN PERMISSION FROM THE AUTHOR MAY BE GRANTED AT THE AUTHOR’S SOLE DISCRETION 
+FOR RESEARCH, AUDIT, OR COMPATIBILITY PURPOSES.
+
+--------------------------------------------------------------------
+
+26. DERIVATIVE WORKS, CONFIDENTIALITY, AND NON-DISCLOSURE
+
+THE SOFTWARE, INCLUDING ITS INTERNAL DESIGN, ARCHITECTURE, 
+FUNCTIONAL LOGIC, AND IMPLEMENTATION DETAILS, SHALL BE CONSIDERED 
+PROPRIETARY AND CONFIDENTIAL INFORMATION OF THE AUTHOR.
+
+YOU SHALL NOT CREATE, AUTHORIZE, OR DISTRIBUTE DERIVATIVE WORKS 
+BASED ON THE SOFTWARE WITHOUT OBTAINING PRIOR WRITTEN CONSENT FROM THE AUTHOR.
+
+IN THE EVENT THAT THE AUTHOR PROVIDES SUCH CONSENT, THE FOLLOWING
+CONDITIONS SHALL APPLY:
+
+- ANY TECHNICAL INFORMATION, INTERNAL STRUCTURES, METHODS, OR IMPLEMENTATION
+  DETAILS OBSERVED OR DISCOVERED DURING THE CREATION OF DERIVATIVE WORKS SHALL 
+  BE TREATED AS CONFIDENTIAL;
+- YOU AGREE NOT TO DISCLOSE, PUBLISH, SHARE, OR DISTRIBUTE SUCH INFORMATION 
+  TO ANY THIRD PARTY WITHOUT EXPRESS WRITTEN AUTHORIZATION;
+- YOU AGREE TO USE SUCH INFORMATION SOLELY FOR THE PURPOSE EXPRESSLY APPROVED 
+  BY THE AUTHOR;
+- ANY APPROVED DERIVATIVE WORK SHALL BE SUBJECT TO ADDITIONAL LICENSING TERMS
+  AS DETERMINED BY THE AUTHOR.
+
+THIS SECTION SHALL OPERATE AS A LIMITED NON-DISCLOSURE AGREEMENT (NDA) 
+AND SHALL REMAIN IN EFFECT INDEFINITELY, INCLUDING AFTER TERMINATION OF THIS LICENSE.
+
+--------------------------------------------------------------------
+
+27. VERSIONING, MODIFICATIONS TO TERMS, AND CONTINUED ACCEPTANCE
+
+THE AUTHOR RESERVES THE RIGHT, AT ANY TIME AND WITHOUT PRIOR NOTICE, 
+TO MODIFY, UPDATE, REVISE, OR REPLACE THIS EULA.
+
+SUCH MODIFICATIONS MAY BE PROVIDED THROUGH SOFTWARE UPDATES, 
+DOCUMENTATION CHANGES, OR PUBLICATION OF A REVISED VERSION.
+
+BY CONTINUING TO INSTALL, ACCESS, EXECUTE, UPDATE, OR USE THE 
+SOFTWARE AFTER ANY SUCH MODIFICATIONS, YOU AGREE TO BE BOUND BY 
+THE MOST CURRENT VERSION OF THIS AGREEMENT.
+
+IF YOU DO NOT AGREE TO THE REVISED TERMS, YOU MUST IMMEDIATELY CEASE 
+USE OF THE SOFTWARE AND DESTROY ALL COPIES IN YOUR POSSESSION OR CONTROL.
+
+THE MOST CURRENT VERSION OF THIS AGREEMENT SHALL SUPERSEDE ALL PRIOR 
+VERSIONS AND SHALL GOVERN ALL CONTINUED USE OF THE SOFTWARE.
+
+--------------------------------------------------------------------
+
+PLEASE NOTE,
+
+BY INSTALLING, COPYING, ACCESSING, EXECUTING, OR OTHERWISE USING 
+THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, 
+UNDERSTAND IT, AND AGREE TO BE LEGALLY BOUND BY ITS TERMS AND CONDITIONS.
+
+
+--------------------------------------------------------------------
